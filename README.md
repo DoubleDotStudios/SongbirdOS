@@ -1,4 +1,4 @@
 # SongbirdOS
 
 ## Plan:
-![Plan](<./Planning/SongbirdOS Plan.svg>)
+![Plan](<./Planning/Final Plan.svg>)
